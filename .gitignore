@@ -1,0 +1,6 @@
+packages/*
+bin/*
+.idea/*
+.vs/*
+obj/*
+Properties/*
